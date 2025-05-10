@@ -76,11 +76,7 @@
 
 ---
 
-## 📸 Screenshot
 
-![App Screenshot](docs/screenshot.png)
-
----
 
 ## 🛠️ How It Works
 
